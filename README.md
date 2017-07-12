@@ -1,7 +1,7 @@
-#Python Developer course.
+# Python Developer course.
+=====
 
-
-###Author
+### Author
 
 Алексей Селезнев
 
